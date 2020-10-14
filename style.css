@@ -77,7 +77,7 @@ section img {
   position: relative;
 }
 
-/* div.stamps {
+div.stamps {
   position: absolute;
   top: 0;
   left: 50%;
@@ -88,4 +88,4 @@ div.stamps img {
   position: absolute;
   transform: translate(-50%, -50%);
   animation: spin 30s linear infinite;
-} */
+}
